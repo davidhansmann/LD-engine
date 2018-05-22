@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello Atom!" << endl;
+    cout << "Hello Atom plus!" << endl;
     return 0;
 }
